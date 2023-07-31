@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/op1"
+        android:title="ir a menu de opciones"
+        android:icon="@android:drawable/ic_input_add"
+        />
+    <item android:id="@+id/op2"
+        android:title="ir a menu popup"
+        android:icon="@android:drawable/ic_input_add"
+        />
+    <item android:id="@+id/op3"
+        android:title="Regresar a inicio"
+        android:icon="@android:drawable/ic_menu_manage"
+        />
+    <item android:id="@+id/op4"
+        android:title="Salir "
+        android:icon="@android:drawable/ic_dialog_info"
+        />
+
+
+</menu>
